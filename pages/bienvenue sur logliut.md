@@ -1,5 +1,7 @@
 ---
 title: Bienvenue sur Logliut
+published: true
+permalink: bienvenue%20sur%20logliut
 ---
 
 ## Hello You !
