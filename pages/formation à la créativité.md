@@ -67,7 +67,7 @@ title: Formation à la créativité
 :PROPERTIES:
 :heading: true
 :END:
-### Des outils numériques développer la pensée
+### Des outils numériques pour développer la pensée
 :PROPERTIES:
 :heading: true
 :END:
