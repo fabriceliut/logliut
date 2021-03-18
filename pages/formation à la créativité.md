@@ -49,7 +49,7 @@ title: Formation à la créativité
 #### La méditation
 #### La marche active
 #### Le mouvement physique
-####
+#### L'expression artistique
 ### Le processus expérimental
 #### Chercher les erreurs
 #### Rebondir & apprendre
