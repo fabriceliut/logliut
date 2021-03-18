@@ -9,3 +9,5 @@ title: Formation à la créativité
 ### Basculer de l'intuitif au rationnel
 ### Basculer du rationnel à l'intuitif
 ## Comment favoriser & libérer la créativité ?
+### Des routines au quotidien
+### Des outils numériques pour soutenir
