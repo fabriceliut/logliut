@@ -16,6 +16,9 @@ title: Formation à la créativité
 #### Renouveler, adapter
 #### Stimuler, dynamiser
 ### Découvrir les processus mentaux de la créativité
+:PROPERTIES:
+:heading: true
+:END:
 #### La curiosité
 #### La démarche exploratoire
 #### La sérendipité
