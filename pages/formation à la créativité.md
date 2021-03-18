@@ -14,7 +14,7 @@ title: Formation à la créativité
 #### La démarche exploratoire
 #### La sérendipité
 #### Les questions & la dialectique
-####
+#### La pensée analogique
 ### Du rationnel à l'intuitif
 ### De l'intuitif au rationnel
 ## Comment favoriser & libérer la créativité ?
@@ -23,3 +23,5 @@ title: Formation à la créativité
 :END:
 ### Des routines au quotidien
 ### Des outils numériques développer la pensée
+#### La veille numérique
+#### La
