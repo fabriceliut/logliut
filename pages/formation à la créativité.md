@@ -47,9 +47,6 @@ title: Formation à la créativité
 :heading: true
 :END:
 ### Des routines au quotidien
-:PROPERTIES:
-:heading: true
-:END:
 #### La méditation
 #### La marche active
 #### Le mouvement physique
@@ -57,20 +54,11 @@ title: Formation à la créativité
 #### Faciliter la rencontre des différences
 ##### Animer des discussions et débats
 ### Le processus expérimental
-:PROPERTIES:
-:heading: true
-:END:
 #### Chercher les erreurs
 #### Rebondir & apprendre
 #### Apprendre à apprendre
 ### L'intelligence collective
-:PROPERTIES:
-:heading: true
-:END:
 ### Des outils numériques développer la pensée
-:PROPERTIES:
-:heading: true
-:END:
 #### La veille numérique
 #### La construction d'un système de connaissance personnel : le second cerveau numérique
 #### La prise de note
@@ -81,5 +69,4 @@ title: Formation à la créativité
 :PROPERTIES:
 :heading: true
 :END:
-### Comment dessiner une tartine de pain grillée ? (mini-workshop)
-###
+### Comment dessiner une tartine de pain grillé ?
