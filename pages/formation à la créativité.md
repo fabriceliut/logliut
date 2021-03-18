@@ -10,6 +10,7 @@ title: Formation à la créativité
 > Le meilleur moyen pour avoir des idées nouvelles et de beaux concepts c'est de ne pas chercher à en avoir.
 ### Introduction par les définitions générales
 ### Découvrir les processus mentaux de la créativité
+####
 ### Du rationnel à l'intuitif
 ### De l'intuitif au rationnel
 ## Comment favoriser & libérer la créativité ?
