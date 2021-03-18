@@ -89,4 +89,4 @@ title: Formation à la créativité
 #### _Pour comprendre le storytelling et le processus d'écriture créative_
 #### _Pour expérimenter le passage de l'inconscient par l'imaginaire, par l'idée et la sortie en écriture_
 ### Penser autrement pour faire autrement
-#### Pour comprendre comment appliquer
+#### _Pour comprendre comment appliquer la démarche créative dans tous les domaines, tout le temps_
