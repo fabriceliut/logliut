@@ -51,6 +51,8 @@ title: Formation à la créativité
 #### La marche active
 #### Le mouvement physique
 #### L'expression artistique
+#### Faciliter la rencontre des différences
+##### Animer des discussions et débats
 ### Le processus expérimental
 #### Chercher les erreurs
 #### Rebondir & apprendre
