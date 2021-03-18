@@ -58,7 +58,13 @@ title: Formation à la créativité
 #### Rebondir & apprendre
 #### Apprendre à apprendre
 ### L'intelligence collective
+:PROPERTIES:
+:heading: true
+:END:
 ### Des outils numériques développer la pensée
+:PROPERTIES:
+:heading: true
+:END:
 #### La veille numérique
 #### La construction d'un système de connaissance personnel : le second cerveau numérique
 #### La prise de note
