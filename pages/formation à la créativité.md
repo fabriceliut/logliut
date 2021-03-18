@@ -82,4 +82,5 @@ title: Formation à la créativité
 :heading: true
 :END:
 ### Comment dessiner une tartine de pain grillé ?
-###
+### De la musique à l'écriture
+### Les mythes : comment raconter une histoire ?
