@@ -65,3 +65,8 @@ title: Formation à la créativité
 #### L'écriture de concept
 #### Du concept au projet innovant
 #### Du projet à la co-construction
+## Exercices pratiques
+:PROPERTIES:
+:heading: true
+:END:
+###
