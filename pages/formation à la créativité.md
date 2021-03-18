@@ -28,3 +28,4 @@ title: Formation à la créativité
 #### La prise de note
 #### L'écriture de concept
 #### Du concept au projet innovant
+#### Du projet à la co-construction
