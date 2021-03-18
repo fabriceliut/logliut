@@ -13,6 +13,8 @@ title: Formation à la créativité
 #### La curiosité
 #### La démarche exploratoire
 #### La sérendipité
+#### Les questions & la dialectique
+####
 ### Du rationnel à l'intuitif
 ### De l'intuitif au rationnel
 ## Comment favoriser & libérer la créativité ?
