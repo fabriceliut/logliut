@@ -82,6 +82,7 @@ title: Formation à la créativité
 :heading: true
 :END:
 ### Comment dessiner une tartine de pain grillé ?
+#### _Pour comprendre les liens et relations ainsi que la puissance de la diversité des représentations mentales & de l'intelligence collective_
 ### De la musique à l'écriture
 ### Les mythes : comment raconter une histoire ?
 ### Penser autrement pour faire autrement
