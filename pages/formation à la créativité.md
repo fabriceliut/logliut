@@ -13,6 +13,9 @@ title: Formation à la créativité
 :heading: true
 :END:
 ### Pourquoi la créativité ?
+:PROPERTIES:
+:heading: true
+:END:
 #### Renouveler, adapter
 #### Stimuler, dynamiser
 ### Découvrir les processus mentaux de la créativité
