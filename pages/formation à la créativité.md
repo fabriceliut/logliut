@@ -12,13 +12,13 @@ title: Formation à la créativité
 ### Pourquoi la créativité ?
 #### Renouveler, adapter
 #### Stimuler, dynamiser
-####
 ### Découvrir les processus mentaux de la créativité
 #### La curiosité
 #### La démarche exploratoire
 #### La sérendipité
 #### Les questions & la dialectique
 #### La pensée analogique
+#### Penser du macro au micro
 ### Du rationnel à l'intuitif
 #### Du raisonnement aux émotions
 #### Des émotions aux sensations
