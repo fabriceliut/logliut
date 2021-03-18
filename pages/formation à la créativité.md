@@ -36,6 +36,9 @@ title: Formation à la créativité
 #### Des émotions aux sensations
 #### Des sensations à l'intuition
 ### De l'intuitif au rationnel
+:PROPERTIES:
+:heading: true
+:END:
 #### De l'inconscient à l'imaginaire
 #### De l'imaginaire à l'idée
 ## Comment favoriser & libérer la créativité ?
