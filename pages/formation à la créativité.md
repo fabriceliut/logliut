@@ -27,6 +27,7 @@ title: Formation à la créativité
 #### La sérendipité
 #### Les questions & la dialectique
 #### La pensée analogique
+#### La pensée systémique
 #### Penser du macro au micro
 ### Du rationnel à l'intuitif
 :PROPERTIES:
