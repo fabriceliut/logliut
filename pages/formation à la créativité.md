@@ -47,6 +47,9 @@ title: Formation à la créativité
 :heading: true
 :END:
 ### Des routines au quotidien
+:PROPERTIES:
+:heading: true
+:END:
 #### La méditation
 #### La marche active
 #### Le mouvement physique
