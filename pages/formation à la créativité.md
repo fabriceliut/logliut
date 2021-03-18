@@ -31,6 +31,9 @@ title: Formation à la créativité
 :heading: true
 :END:
 ### Des routines au quotidien
+### Le processus expérimental
+#### Chercher les erreurs
+#### Rebondir & apprendre
 ### Des outils numériques développer la pensée
 #### La veille numérique
 #### La construction d'un système de connaissance personnel : le second cerveau numérique
