@@ -24,4 +24,7 @@ title: Formation à la créativité
 ### Des routines au quotidien
 ### Des outils numériques développer la pensée
 #### La veille numérique
-#### La
+#### La construction d'un système de connaissance personnel : le second cerveau numérique
+#### La prise de note
+#### L'écriture de concept
+#### Du concept au projet innovant
