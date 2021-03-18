@@ -86,4 +86,6 @@ title: Formation à la créativité
 ### De la musique à l'écriture
 #### _Pour comprendre la pensée analogique_
 ### Les mythes : comment raconter une histoire ?
+#### _Pour comprendre le storytelling et le processus d'écriture créative_
+#### _Pour expérimenter le passage de l'inconscient par l'imaginaire, par l'idée et la sortie en écriture_
 ### Penser autrement pour faire autrement
