@@ -29,6 +29,9 @@ title: Formation à la créativité
 #### La pensée analogique
 #### Penser du macro au micro
 ### Du rationnel à l'intuitif
+:PROPERTIES:
+:heading: true
+:END:
 #### Du raisonnement aux émotions
 #### Des émotions aux sensations
 #### Des sensations à l'intuition
