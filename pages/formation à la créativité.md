@@ -17,6 +17,8 @@ title: Formation à la créativité
 #### La pensée analogique
 ### Du rationnel à l'intuitif
 ### De l'intuitif au rationnel
+#### De l'inconscient à l'imaginaire
+#### De l'imaginaire à l'idée
 ## Comment favoriser & libérer la créativité ?
 :PROPERTIES:
 :heading: true
