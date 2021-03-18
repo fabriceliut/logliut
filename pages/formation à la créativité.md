@@ -16,7 +16,8 @@ title: Formation à la créativité
 #### Les questions & la dialectique
 #### La pensée analogique
 ### Du rationnel à l'intuitif
-#### Du raisonnement
+#### Du raisonnement aux émotions
+####
 ### De l'intuitif au rationnel
 #### De l'inconscient à l'imaginaire
 #### De l'imaginaire à l'idée
