@@ -81,4 +81,5 @@ title: Formation à la créativité
 :PROPERTIES:
 :heading: true
 :END:
+### Comment dessiner une tartine de pain grillée ? (mini-workshop)
 ###
