@@ -57,6 +57,7 @@ title: Formation à la créativité
 #### Chercher les erreurs
 #### Rebondir & apprendre
 #### Apprendre à apprendre
+### L'intelligence collective
 ### Des outils numériques développer la pensée
 #### La veille numérique
 #### La construction d'un système de connaissance personnel : le second cerveau numérique
