@@ -57,6 +57,9 @@ title: Formation à la créativité
 #### Faciliter la rencontre des différences
 ##### Animer des discussions et débats
 ### Le processus expérimental
+:PROPERTIES:
+:heading: true
+:END:
 #### Chercher les erreurs
 #### Rebondir & apprendre
 #### Apprendre à apprendre
