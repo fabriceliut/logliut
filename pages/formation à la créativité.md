@@ -46,6 +46,9 @@ title: Formation à la créativité
 :heading: true
 :END:
 ### Des routines au quotidien
+#### La méditation
+#### La marche active
+#### Le mouvement physique
 ####
 ### Le processus expérimental
 #### Chercher les erreurs
